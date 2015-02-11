@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{08E802EA-3783-48C3-A910-7A0FE8C819EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DotNetChess.splash</StartupObject>
+    <RootNamespace>DotNetChess</RootNamespace>
+    <AssemblyName>DotNetChess</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>1305367505_chess.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DotNetChess.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42025,42032,42036,42353,42354,42355</NoWarn>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>41998,42004,42020,42021,42022,42024,42026,42029,42030,42031,42099,42104,42105,42106,42107,42108,42109</WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DotNetChess.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42025,42032,42036,42353,42354,42355</NoWarn>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>false</DebugSymbols>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <WarningsAsErrors>41998,42004,42020,42021,42022,42024,42026,42029,42030,42031,42099,42104,42105,42106,42107,42108,42109</WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX.AudioVideoPlayback, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AIE.vb" />
+    <Compile Include="Classes\Bishop.vb" />
+    <Compile Include="Classes\Chess.vb" />
+    <Compile Include="Classes\ChessBoard.vb" />
+    <Compile Include="Classes\Player.vb" />
+    <Compile Include="Classes\King.vb" />
+    <Compile Include="Classes\Knight.vb" />
+    <Compile Include="Classes\Pawn.vb" />
+    <Compile Include="Classes\Piece.vb" />
+    <Compile Include="Classes\Queen.vb" />
+    <Compile Include="Classes\Rook.vb" />
+    <Compile Include="Classes\Rules.vb" />
+    <Compile Include="Classes\Savedata.vb" />
+    <Compile Include="Forms\about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\cnv.Designer.vb">
+      <DependentUpon>cnv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\cnv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOptions.Designer.vb">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\sound.Designer.vb">
+      <DependentUpon>sound.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\sound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\splash.Designer.vb">
+      <DependentUpon>splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\modPublic.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Practice\Class1.vb" />
+    <Compile Include="Practice\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Practice\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\cnv.resx">
+      <DependentUpon>cnv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOptions.resx">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\sound.resx">
+      <DependentUpon>sound.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\splash.resx">
+      <DependentUpon>splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Practice\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Other\app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSOSOAPLib30">
+      <Guid>{67EA4C27-A47C-11D6-9500-00065B874123}</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSXML2">
+      <Guid>{F5078F18-C551-11D3-89B9-0000F81FE221}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1305367505_chess.ico" />
+    <None Include="Resources\Rook.jpg" />
+    <None Include="Resources\Q.jpg" />
+    <None Include="Resources\k.jpg" />
+    <None Include="Resources\BISHOP.jpg" />
+    <None Include="Resources\white_queen_2d-icon.gif" />
+    <None Include="Resources\index.gif" />
+    <None Include="Resources\Audio_Cd.png" />
+    <None Include="bin\Debug\IMG\1.jpg" />
+    <None Include="bin\Debug\IMG\2.jpg" />
+    <None Include="bin\Debug\IMG\3.jpg" />
+    <None Include="bin\Debug\IMG\4.jpg" />
+    <None Include="bin\Debug\IMG\5.jpg" />
+    <None Include="bin\Debug\IMG\new.jpg" />
+    <None Include="bin\Debug\IMG\n.jpg" />
+    <None Include="bin\Debug\IMG\no.jpg" />
+    <None Include="bin\Debug\IMG\load.jpg" />
+    <None Include="bin\Debug\IMG\loadO.jpg" />
+    <None Include="bin\Debug\IMG\about.jpg" />
+    <None Include="bin\Debug\IMG\aboutO.jpg" />
+    <None Include="bin\Debug\IMG\exit.jpg" />
+    <None Include="bin\Debug\IMG\exitO.jpg" />
+    <None Include="bin\Debug\IMG\aboutus.jpg" />
+    <None Include="bin\Debug\IMG\WhiteQueen.bmp" />
+    <None Include="bin\Debug\IMG\WhiteKnight.bmp" />
+    <None Include="bin\Debug\IMG\WhiteRook.bmp" />
+    <None Include="bin\Debug\IMG\WhiteBishop.bmp" />
+    <Content Include="Other\DNC.ico" />
+    <None Include="Resources\3d-chess.jpg" />
+    <None Include="Resources\1305379035_start-here-gnome-green.ico" />
+    <None Include="Resources\1305376984_ark21.ico" />
+    <None Include="Resources\1305378928_kalarm_disabled.ico" />
+    <None Include="Resources\Shutdown.ico" />
+    <None Include="Resources\1305378539_gtk-go-back-rtl.ico" />
+    <None Include="Resources\1305378363_Gnome-Go-Last-32.ico" />
+    <None Include="Resources\1305378382_Gnome-Go-First-32.ico" />
+    <None Include="Resources\1305378342_Gnome-Go-Previous-32.ico" />
+    <None Include="Resources\1305378204_gtk-media-forward-ltr.ico" />
+    <None Include="Resources\1305378016_gtk-go-back-rtl.ico" />
+    <None Include="Resources\1305378012_gtk-go-back-ltr.ico" />
+    <None Include="Resources\back.BMP" />
+    <None Include="Resources\1305377603_gtk-media-forward-ltr.ico" />
+    <None Include="Resources\1305377528_Play.ico" />
+    <None Include="Resources\1305377359_mail-new.ico" />
+    <None Include="Resources\1305377308_folder_up.ico" />
+    <None Include="Resources\1305377221_download_box_blue.ico" />
+    <None Include="Resources\1305377129_Save.png" />
+    <None Include="Resources\1305377080_Download.ico" />
+    <None Include="Resources\1305376984_ark2.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

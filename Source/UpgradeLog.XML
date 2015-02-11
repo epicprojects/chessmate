@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DotNetChess">
+</Property><Property Name="Solution File" Value="D:\COMSIAN\Software Engg\MaTRIAL\New Folder\New Folder\DotNetChessD\DotNetChess\DotNetChess\DotNetChess\DotNetChess.sln">
+</Property><Property Name="User Options File" Value="D:\COMSIAN\Software Engg\MaTRIAL\New Folder\New Folder\DotNetChessD\DotNetChess\DotNetChess\DotNetChess\DotNetChess.suo">
+</Property><Property Name="Date" Value="Friday, May 13, 2011">
+</Property><Property Name="Time" Value="23:52 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DotNetChess.sln" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\DotNetChess.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DotNetChess.suo" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\DotNetChess.suo">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="DotNetChess.vbproj" Description="Project file successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\DotNetChess.vbproj">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="DotNetChess.vbproj.user" Description="Project user file successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\DotNetChess.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Classes\AIEngine.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Classes\AIEngine.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Classes\Board.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Classes\Board.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmMain.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmMain.Designer.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmOptions.Designer.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmOptions.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmOptions.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmOptions.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Classes\Game.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Classes\Game.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Modules\modPublic.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Modules\modPublic.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Other\app.config" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Other\app.config">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Application.myapp" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Settings.settings" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Other\DNC.ico" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Other\DNC.ico">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmMain.resx" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="Forms\frmOptions.resx" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\Forms\frmOptions.resx">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="My Project\Resources.resx" Description="File successfully backed up as D:\COMSIAN\Software Engg\Chess Project\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="DotNetChess.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DotNetChess" Source="DotNetChess.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DotNetChess.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DotNetChess.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotNetChess" Source="DotNetChess.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,114 @@
+D:\COMSIAN\Software Engg\MaTRIAL\New Folder\New Folder\DotNetChessD\DotNetChess\DotNetChess\DotNetChess\bin\Debug\DotNetChess.exe.config
+D:\COMSIAN\Software Engg\MaTRIAL\New Folder\New Folder\DotNetChessD\DotNetChess\DotNetChess\DotNetChess\obj\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\MaTRIAL\New Folder\New Folder\DotNetChessD\DotNetChess\DotNetChess\DotNetChess\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\DotNetChess.exe.config
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\ResolveAssemblyReference.cache
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.frmMain.resources
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.frmOptions.resources
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.Resources.resources
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\DotNetChess.pdb
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\bin\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\DotNetChess\obj\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\DotNetChess.exe.config
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\Interop.MSOSOAPLib30.dll
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\Interop.MSXML2.dll
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.exe
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.xml
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\DotNetChess.exe
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\DotNetChess.xml
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\Interop.MSOSOAPLib30.dll
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\bin\Debug\Interop.MSXML2.dll
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.frmMain.resources
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.frmOptions.resources
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.Resources.resources
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\ResGen.read.1.tlog
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\ResGen.write.1.tlog
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.splash.resources
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.about.resources
+C:\Users\Dv6\Desktop\DotNetChess\DotNetChess\obj\Debug\DotNetChess.sound.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\DotNetChess.exe.config
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.pdb
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\DotNetChess.pdb
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\bin\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\ResolveAssemblyReference.cache
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.about.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.frmMain.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.frmOptions.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.sound.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.splash.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\DotNetChess.Resources.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\ResGen.read.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\DotNetChess\obj\Debug\ResGen.write.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\DotNetChess.exe.config
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\DotNetChess.pdb
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\bin\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\ResolveAssemblyReference.cache
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\Interop.MSOSOAPLib30.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\Interop.MSXML2.dll
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.about.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.cnv.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.frmMain.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.frmOptions.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.sound.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.splash.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.Resources.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.Form1.resources
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.exe
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.xml
+D:\COMSIAN\Software Engg\Chess Project\Chess VB.net Project\OmerBackup\DotNetChess\obj\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\DotNetChess.exe.config
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\Interop.MSOSOAPLib30.dll
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\Interop.MSXML2.dll
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.vbproj.ResolveComReference.cache
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.exe
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.xml
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\DotNetChess.exe
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\DotNetChess.pdb
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\DotNetChess.xml
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\Interop.MSOSOAPLib30.dll
+C:\Users\Dv6\Desktop\DotNetChessFFF\bin\Debug\Interop.MSXML2.dll
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.about.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.cnv.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.frmMain.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.frmOptions.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.sound.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.splash.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.Resources.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\DotNetChess.Form1.resources
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\ResGen.read.1.tlog
+C:\Users\Dv6\Desktop\DotNetChessFFF\obj\Debug\ResGen.write.1.tlog
